@@ -23,7 +23,7 @@
 <img width="585" height="1266" alt="IMG_5244" src="https://github.com/user-attachments/assets/1a2967fd-edfc-47e4-8c9e-b916aa41e3df" />
 <img width="585" height="1266" alt="IMG_5244" src="https://github.com/user-attachments/assets/3631ecfa-56ae-4f10-bc78-5102f6805a2b" />
 <img width="585" height="1266" alt="IMG_5242" src="https://github.com/user-attachments/assets/953ce390-2e70-4cbc-8103-e3c371466eb0" />
-![IMG_5240](https://github.com/user-attachments/assets/76de4f97-1e2b-4ff1-830d-c984d711f2f2)
+<img width="1170" height="2532" alt="IMG_5240" src="https://github.com/user-attachments/assets/719bbb1f-0c74-4f70-bdd8-7fcb1591519e" />
 
 
 ## 主な機能
